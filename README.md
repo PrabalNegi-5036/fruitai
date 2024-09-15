@@ -1,5 +1,5 @@
 <!-- run backend -->
-
+cd Backend
 python app.py
 
 <!-- run frontend -->
